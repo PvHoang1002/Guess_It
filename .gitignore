@@ -1,0 +1,9 @@
+**/*.vscode
+**/*.vs
+**/*.dll
+**/*.exe
+**/bin
+**/obj
+**/*.cbp
+**/*.depend
+**/*.layout
